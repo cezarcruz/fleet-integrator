@@ -1,6 +1,7 @@
 camel:
   springboot:
     main-run-controller: true
+    allow-use-original-message: true
 
 fleetlize.broker-url: tcp://localhost:61616
 
